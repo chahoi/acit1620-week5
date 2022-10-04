@@ -1,3 +1,9 @@
 .heading{
     color: red;
 }
+.texts{
+    color: blue;
+    background-color: pink;
+    
+    text-align: center;
+}
