@@ -7,6 +7,14 @@
     
     text-align: center;
 }
+/* how to add id */
 #idexample{
     background-color: aquamarine;
+}
+
+.heading.london{
+    background-color: tomato;
+}
+#ottawa{
+    color: red;
 }
