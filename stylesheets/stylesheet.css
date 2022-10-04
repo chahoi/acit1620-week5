@@ -32,3 +32,11 @@
     margin: 5px;
 
 }
+h1{
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+body{
+    font-family: 'Crimson Text', serif;
+}
