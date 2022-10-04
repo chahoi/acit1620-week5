@@ -18,3 +18,17 @@
 #ottawa{
     color: red;
 }
+
+.spann{
+    padding: 0px 5px;
+    border-top:  2px solid black;
+    border-bottom: 4px solid grey;
+
+}
+
+.para{
+    border: 10px lightgreen;
+    border-style: ridge;
+    margin: 5px;
+
+}
